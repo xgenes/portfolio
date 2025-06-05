@@ -1066,6 +1066,17 @@ footer {
     .chat-box {
         width: 300px;
     }
+    .hero-buttons a{
+        display: block !important;
+        width: 250px;
+        margin: 10px auto;
+        
+    }
+    .hero-buttons{
+        display:block;
+        justify-content: center;
+        line-height: 40px;
+    }
 }
 
 /* ===== Animations ===== */
